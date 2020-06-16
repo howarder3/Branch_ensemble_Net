@@ -2,7 +2,7 @@ import tensorflow as tf
 import numpy as np
 import time
 import datetime
-import os
+import os 
 
 from glob import glob
 from six.moves import xrange
